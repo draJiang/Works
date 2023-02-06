@@ -136,9 +136,10 @@
     margin-bottom: 0.25em;
 }
 
-.notion-sync-block {
+
+/* .notion-sync-block {
     margin: 0.8rem 0;
-}
+} */
 
 .notion-sync-block .notion-h {
     display: block;
@@ -390,7 +391,3 @@
 .notion-aside-table-of-contents a {
     padding-left: 0;
 } */
-
-footer .toggleDarkModeBtn {
-    display: none;
-}

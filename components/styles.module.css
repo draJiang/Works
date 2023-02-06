@@ -211,11 +211,3 @@
 .hidden {
     visibility: hidden;
 }
-
-footer .toggleDarkModeBtn {
-    display: none;
-}
-
-footer .power a {
-    /* text-decoration: underline; */
-}
