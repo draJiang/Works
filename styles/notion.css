@@ -18,7 +18,7 @@
 }
 
 .index-page {
-    --notion-max-width: 900px;
+    --notion-max-width: 820px;
 }
 
 .notion-text {
@@ -380,3 +380,13 @@
 .notion-block-260baa77f1e1428b97fb14ac99c7c385 {
     display: none;
 }
+
+
+/* .notion-aside-table-of-contents {
+    align-items: start;
+    padding: 0.4rem;
+}
+
+.notion-aside-table-of-contents a {
+    padding-left: 0;
+} */
