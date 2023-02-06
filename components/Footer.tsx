@@ -36,7 +36,7 @@ export const FooterImpl: React.FC = () => {
   return (
     <footer className={styles.footer}>
       <div className={styles.copyright}>Copyright 2023 {config.author} </div>
-      <div className={styles.copyright}>Power by <a target={'_blank'} className='notion-link' href='https://github.com/transitive-bullshit/nextjs-notion-starter-kit/tree/main'>nextjs-notion-starter-kit</a>,<a target={'_blank'} className='notion-link' href='https://vercel.com/'>Vercel</a></div>
+      <div className={styles.copyright}>Power by <a target={'_blank'} rel='noopener noreferrer' className='notion-link' href='https://github.com/transitive-bullshit/nextjs-notion-starter-kit/tree/main'>nextjs-notion-starter-kit</a>,<a target={'_blank'} rel='noopener noreferrer' className='notion-link' href='https://vercel.com/'>Vercel</a></div>
 
       <div className={styles.settings+" toggleDarkModeBtn"}>
         {hasMounted && (
