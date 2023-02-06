@@ -390,3 +390,7 @@
 .notion-aside-table-of-contents a {
     padding-left: 0;
 } */
+
+footer .toggleDarkModeBtn {
+    display: none;
+}
