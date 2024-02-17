@@ -39,11 +39,6 @@ body {
   caret-color: var(--fg-color);
 }
 
-<<<<<<< HEAD
-footer .toggleDarkModeBtn {
-  display: none !important;
-}
-=======
 ::-webkit-scrollbar
 {
   width: 5px;
@@ -65,4 +60,3 @@ footer .toggleDarkModeBtn {
 ::-webkit-scrollbar-track {           
     background-color: var(--bg-color);
 }
->>>>>>> upstream/main
