@@ -49,13 +49,8 @@ export default siteConfig({
   pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
-<<<<<<< HEAD
   // important pages
   navigationStyle: 'custom'
-=======
-  // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
-  navigationStyle: 'default'
->>>>>>> upstream/main
   // navigationStyle: 'custom',
   // navigationLinks: [
   //   {
